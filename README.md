@@ -17,8 +17,8 @@ I'm a passionate **Full Stack Web Developer** with **2.5+ years of experience**,
 
 ### **🛠️ Tech Stack**  
 
-💻 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS  
-🛠️ **Backend:** Node.js, Express.js  
+💻 **Frontend:** Html, Css, React.js, Next.js, TypeScript, JavaScript, Tailwind CSS  
+🛠️ **Backend:** Node.js, Express.js, Sails.js 
 🛢️ **Databases:** MongoDB, MySQL  
 🔗 **Other Tools:** Git, GitHub, Stripe, REST APIs  
 
